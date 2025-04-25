@@ -20,11 +20,10 @@ ollama pull deepseek-r1:latest
 this is what I used for the project 
 
 > You can choose anything you want but do remember to change the same in the `extension.ts`. 
-> Or replace with any other supported model.
 
 ### 2. Clone & Install Extension
 
-```bash
+```zsh
 git clone https://github.com/SSK0414/ai-docstring2
 cd ai-docstring-generator
 npm install
