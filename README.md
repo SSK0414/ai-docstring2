@@ -11,14 +11,18 @@ A simple VS Code extension that uses an open-source LLM (via [Ollama](https://ol
 
 ### 1. Install Ollama
 
-Install and run Ollama from [https://ollama.com](https://ollama.com), then pull a model:
+Install and run Ollama from [ollama.com](https://ollama.com), then pull a model:
 
 ```bash
 ollama pull deepseek-r1:latest 
 ```
+> This will download the model `deepseek-r1:7b` Model.
 this is what I used for the project 
 
-> You can choose anything you want but do remember to change the same in the `extension.ts`. 
+> You can choose anything you want but do remember to change the same in the `extension.ts`.
+
+> Choose from here [Models](https://ollama.com/search)
+
 
 ### 2. Clone & Install Extension
 
