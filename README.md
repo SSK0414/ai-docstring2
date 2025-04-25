@@ -1,4 +1,3 @@
-```markdown
 # 🧠 AI Docstring Generator (with Ollama)
 
 A simple VS Code extension that uses an open-source LLM (via [Ollama](https://ollama.com)) to generate brief and clear Python docstrings for your functions.
