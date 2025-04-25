@@ -38,8 +38,8 @@ You can use the extension following the steps:
      (or)
      Use the hot key `Ctrl+Shift+H` to run the extension.
   3) Wait.
-  > This will depend on the computational power of your system `\n`
-  > It takes 20-25 seconds for me ( I use a M1 Macbook )
+  > This will depend on the computational power of your system
+  > It takes `20-25 seconds` for me `I use a M1 Macbook`
  
 ## 🧪 Testing
 
