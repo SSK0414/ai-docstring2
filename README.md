@@ -15,8 +15,9 @@ A simple VS Code extension that uses an open-source LLM (via [Ollama](https://ol
 Install and run Ollama from [https://ollama.com](https://ollama.com), then pull a model:
 
 ```bash
-ollama pull deepseek-coder
+ollama pull deepseek-r1:latest 
 ```
+this is what I used for the project ( You can choose anything you want but do remember to change the same in the `extension.ts`.
 
 > Or replace with any other supported model.
 
