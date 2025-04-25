@@ -36,7 +36,8 @@ You can use the extension following the steps:
   1) highlight a function 
   2) Use the command palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and search: `docstring`
      (or)
-     Use the hot key `Ctrl+Shift+H` to run the extension
+     Use the hot key `Ctrl+Shift+H` to run the extension.
+  3) Wait for 20-30 seconds ( If you have an older system, this time will vary ).
  
 ## 🧪 Testing
 
