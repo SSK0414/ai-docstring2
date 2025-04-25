@@ -32,9 +32,12 @@ npm install
 
 Press `F5` in VS Code to launch the extension in a new window.
 
-Use the command palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and search:  
-`AI Docstring Generator: Start`
-
+You can use the extension following the steps:
+  1) highlight a function 
+  2) Use the command palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and search: `docstring`
+     (or)
+     Use the hot key `Ctrl+Shift+H` to run the extension
+ 
 ## 🧪 Testing
 
 To run tests:
