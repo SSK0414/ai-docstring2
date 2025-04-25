@@ -23,7 +23,7 @@ ollama pull deepseek-coder
 ### 2. Clone & Install Extension
 
 ```bash
-git clone https://github.com/yourusername/ai-docstring-generator
+git clone https://github.com/SSK0414/ai-docstring2
 cd ai-docstring-generator
 npm install
 ```
