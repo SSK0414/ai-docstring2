@@ -37,7 +37,9 @@ You can use the extension following the steps:
   2) Use the command palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and search: `docstring`
      (or)
      Use the hot key `Ctrl+Shift+H` to run the extension.
-  3) Wait for 20-30 seconds ( If you have an older system, this time will vary ).
+  3) Wait.
+  > This will depend on the computational power of your system.
+  > It takes 20-25 seconds for me ( I use a M1 Macbook )
  
 ## 🧪 Testing
 
