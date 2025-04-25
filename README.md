@@ -17,7 +17,7 @@ Install and run Ollama from [https://ollama.com](https://ollama.com), then pull 
 ```bash
 ollama pull deepseek-r1:latest 
 ```
-this is what I used for the project ( You can choose anything you want but do remember to change the same in the `extension.ts`.
+this is what I used for the project ( You can choose anything you want but do remember to change the same in the `extension.ts`. )
 
 > Or replace with any other supported model.
 
