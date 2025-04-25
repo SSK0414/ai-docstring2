@@ -1,7 +1,7 @@
 {
-  "name": "c",
-  "displayName": "",
-  "description": "c",
+  "name": "aidocstring",
+  "displayName": "A simple VS Code extension that uses an open-source LLM (via Ollama) to generate brief and clear Python docstrings for your functions.",
+  "description": "aidocstring",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
