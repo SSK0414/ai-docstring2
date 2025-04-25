@@ -46,15 +46,6 @@ You can use the extension following the steps:
 
   > It takes `20-25 seconds` for me and I use a M1 Macbook
  
-## 🧪 Testing
-
-To run tests:
-
-```bash
-npm test
-```
-
-Tests ensure command registration, activation, and message flow.
 
 ## 📁 File Structure
 
