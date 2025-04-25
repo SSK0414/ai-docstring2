@@ -60,5 +60,4 @@ src/
 
 - TypeScript
 - Ollama (LLM runtime)
-- VS Code WebView API
 
