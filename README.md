@@ -45,7 +45,10 @@ You can use the extension following the steps:
   > This will depend on the computational power of your system
 
   > It takes `20-25 seconds` for me and I use a M1 Macbook
- 
+
+
+https://github.com/user-attachments/assets/76df3738-0e92-4fcb-b2ef-b9807f9e5ab1
+
 
 ## 📁 File Structure
 
